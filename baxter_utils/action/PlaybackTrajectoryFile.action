@@ -1,0 +1,6 @@
+# The filename to be played back
+string trajectory_file_path
+---
+# Error code based on control_msgs/FollowJointTrajectoryResult
+int32 error_code
+---
